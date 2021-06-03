@@ -1,5 +1,3 @@
-
-
 // prompt('whats your favorite Color of flowers ? yellow or red ?')
 
 // prompt("whats type of flowers you want ? DahliaIn , Aster, Delphinium ,Calla Lily")
